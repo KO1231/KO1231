@@ -3,7 +3,7 @@ My name is Kazuhiro Oka. I am a university student studying computer science in 
 
 I love programming to create things and using Java. I am interested in the backend. I often make server wrappers and plugins for Minecraft.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KO1231&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KO1231&theme=monokai)
 
 ## My Skills
 <p align="left"> 
@@ -19,9 +19,9 @@ I love programming to create things and using Java. I am interested in the backe
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KO1231&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KO1231&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KO1231&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KO1231&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KO1231&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KO1231&theme=monokai)
 ![](https://github-profile-trophy.vercel.app/?username=KO1231&theme=monokai&column=7)
 
 License<br/>
