@@ -23,6 +23,3 @@ I love programming to create things and using Java. I am interested in the backe
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KO1231&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KO1231&theme=monokai)
 ![](https://github-profile-trophy.vercel.app/?username=KO1231&theme=monokai&column=7)
-
-License<br/>
-Trophy: https://github.com/ryo-ma/github-profile-trophy
